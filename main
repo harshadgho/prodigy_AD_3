@@ -1,0 +1,1 @@
+This simple Flutter app creates a stopwatch that displaysminutes, seconds, and milliseconds. It allows users to start, pause, and reset the timer. The timer is updated every 10 milliseconds, and the UI is rebuilt accordingly.
